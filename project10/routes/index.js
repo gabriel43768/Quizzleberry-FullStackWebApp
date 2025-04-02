@@ -1,9 +1,24 @@
-var express = require('express');
-var router = express.Router();
+const express = require('express');
+const router = express.Router();
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+// Route for the home page
+router.get('/', (req, res) => {
+    res.render('pages/home');
+});
+
+// Route for the login page
+router.get('/login', (req, res) => {
+    res.render('pages/login');
+});
+
+// Route for the registration page
+router.get('/register', (req, res) => {
+    res.render('pages/register');
+});
+
+// Route for the dashboard page
+router.get('/dashboard', (req, res) => {
+    res.render('pages/dashboard');
 });
 
 module.exports = router;
