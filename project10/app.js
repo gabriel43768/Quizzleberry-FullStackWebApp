@@ -4,8 +4,8 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+var indexRouter = require('./routes/index'); // This should point to your updated index.js
+var usersRouter = require('./routes/users'); // Keep this if you have user-related routes
 
 var app = express();
 
@@ -19,8 +19,9 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Use the index router for static routing
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
+app.use('/users', usersRouter); // Keep this if you have user-related routes
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -29,11 +30,8 @@ app.use(function(req, res, next) {
 
 // error handler
 app.use(function(err, req, res, next) {
-  // set locals, only providing error in development
   res.locals.message = err.message;
   res.locals.error = req.app.get('env') === 'development' ? err : {};
-
-  // render the error page
   res.status(err.status || 500);
   res.render('error');
 });
