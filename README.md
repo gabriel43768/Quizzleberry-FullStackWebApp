@@ -2,10 +2,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://github.com/user-attachments/assets/43e6eb97-d7cb-4ba4-996c-550e8c5a4108)" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">QUIZLEBERRY</h1>
+  <h1 align="center">QUIZZLEBERRY</h1>
 
   <p align="center">
     MOTTO
