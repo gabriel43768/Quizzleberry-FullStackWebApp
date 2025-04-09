@@ -29,7 +29,7 @@ Our target users include:
   - **General Knowledge Enthusiasts**: Individuals who enjoy testing their knowledge and participating in friendly competition.
 
 <div>
-  <h2 align="center">Ket Features</h2>
+  <h2 align="center">Key Features</h2>
 </div>
 
 The Quiz Application will include the following key features:
