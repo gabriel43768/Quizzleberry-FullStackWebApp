@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-    <h1># Quizzleberry</h1>
+    <h3>Quizzleberry</h1>
 </div>
