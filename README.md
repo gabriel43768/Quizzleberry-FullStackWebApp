@@ -2,9 +2,6 @@
 <img src="https://github.com/user-attachments/assets/43e6eb97-d7cb-4ba4-996c-550e8c5a4108" alt="Quizzleberry Icon" width="200" height="auto" />
 <h1>QUIZZLEBERRY</h1>
 
-  <p align="center">
-    MOTTO
-  </p>
 
   <h2 align="center">About the Project</h2>
   
