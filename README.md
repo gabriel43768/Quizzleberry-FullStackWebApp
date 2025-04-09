@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://github.com/user-attachments/assets/43e6eb97-d7cb-4ba4-996c-550e8c5a4108)" alt="Logo" width="80" height="80">
+    <img src="![Quizzleberry Icon](https://github.com/user-attachments/assets/f64af9b6-ec68-4e2f-acdc-23e21c6b019a)" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">QUIZZLEBERRY</h1>
