@@ -1,11 +1,6 @@
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/user-attachments/assets/43e6eb97-d7cb-4ba4-996c-550e8c5a4108" alt="Quizzleberry Icon" width="200" height="auto" />
-  </a>
-
-  <h1 align="center">QUIZZLEBERRY</h1>
+<img src="https://github.com/user-attachments/assets/43e6eb97-d7cb-4ba4-996c-550e8c5a4108" alt="Quizzleberry Icon" width="200" height="auto" />
+<h1>Quizzleberry</h1>
 
   <p align="center">
     MOTTO
